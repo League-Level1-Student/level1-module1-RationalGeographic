@@ -31,8 +31,11 @@ System.out.println("casting spell: " + spell);
 
 	public static void main(String[] args) {
 		// 1. make harry potter
+		HarryPotter goat = new HarryPotter(); 
 		// 2. become invisible
+		goat.makeInvisible(true);
 		// 3. spy on professor snape
+		
 		// 4. become visible again
 		// 5. cast a “stupefy” spell
 	}

@@ -12,10 +12,9 @@ public class elephant {
 	}
 
 	elephant(int macbook, String lol) {
-this.leavesEaten = macbook; 
+		this.leavesEaten = macbook;
 	}
-	elephant african = new elephant(10, africa);
-	
-	
-	
+
+	elephant african = new elephant(10, home);
+
 }
