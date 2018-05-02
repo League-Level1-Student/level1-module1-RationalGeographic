@@ -85,7 +85,7 @@ public class BinaryConverter  implements ActionListener  {
 		
 String text = answer.getText();
 
-Sytem.Out.println(convert(text));		
+System.Out.println(convert(text));		
 		}
 
 }
