@@ -80,12 +80,12 @@ public class BinaryConverter  implements ActionListener  {
 		frame.pack();
 		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
 	}
-	@Override
+	@Override 
 	public void actionPerformed(ActionEvent e) {
 		
 String text = answer.getText();
 
-System.Out.println(convert(text));		
+System.out.println(convert(text));		
 		}
 
 }
