@@ -39,7 +39,12 @@ public class BinaryConverter implements ActionListener {
 			else if ( one==0) {
 				 int outputone = 0;
 			}
-			if()
+			if(two==1) {
+				int outputone = 1;
+			}
+			else if ( two==0) {
+				 int outputone = 0;
+			}
 			
 			//    https://www.thecrazyprogrammer.com/wp-content/uploads/2015/11/binary-to-decimal-example.png
 		
