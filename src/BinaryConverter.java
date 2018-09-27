@@ -94,7 +94,8 @@ public class BinaryConverter implements ActionListener {
 			if(outputtwo==1) {
 				int newcon2 = 1*(2*1)
 			}
-			
+			if(outputthree==1) {
+				int newcon3 = 
 			
 			//    https://www.thecrazyprogrammer.com/wp-content/uploads/2015/11/binary-to-decimal-example.png
 		
